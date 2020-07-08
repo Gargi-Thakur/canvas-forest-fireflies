@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(cover.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
+}
+
+
+
+  /* yellow firefly - #ffe605 
+  darker - #f8cb00
+  lighter - #fffc98
+  */
